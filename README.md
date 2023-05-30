@@ -28,7 +28,7 @@ These instructions will guide you on how to set up and run the Insurance Claims 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/insurance-claims-blockchain.git
+   git clone https://github.com/SamsonWanjiku/insurance-claims-blockchain.git
    ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ These instructions will guide you on how to set up and run the Insurance Claims 
 1. Start the blockchain node:
 
    ```bash
-   python blockchain.py
+   python insurance1.1.py
    ```
 
 2. The blockchain node will be running on `http://localhost:5000`.
