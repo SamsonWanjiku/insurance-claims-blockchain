@@ -40,7 +40,10 @@ These instructions will guide you on how to set up and run the Insurance Claims 
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install flask
+   pip install pycryptodome
+   python latest version from: https://www.python.org/
+
    ```
 
 ### Usage
